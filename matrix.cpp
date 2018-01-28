@@ -450,6 +450,8 @@ matrix matrix::division(matrix b)
         return c ;
          }
 
+	
+	
 }
 
 matrix matrix::Rdivision()
