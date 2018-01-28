@@ -38,6 +38,8 @@ if ( input[number].find('\n')!=-1)
 	if (input[number].find('\r') != -1) {
 
 	input[number].erase(input[number].length()-1);
+		
+		
 
 	}
 
